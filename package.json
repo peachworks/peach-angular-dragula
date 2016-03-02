@@ -1,6 +1,6 @@
 {
   "name": "peach-angular-dragula",
-  "version": "1.2.6",
+  "version": "1.0.0",
   "description": "Drag and drop so simple it hurts",
   "main": "angular-dragula.js",
   "scripts": {
