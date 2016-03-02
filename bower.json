@@ -1,13 +1,13 @@
 {
-  "name": "angular-dragula",
-  "version": "1.2.6",
+  "name": "peach-angular-dragula",
+  "version": "0.0.1",
   "description": "Drag and drop so simple it hurts",
   "main": [
     "dist/angular-dragula.js",
     "dist/dragula.css"
   ],
   "ignore": [],
-  "homepage": "https://github.com/bevacqua/angular-dragula",
+  "homepage": "https://github.com/peachworks/peach-angular-dragula",
   "authors": [
     "Nicolas Bevacqua <nicolasbevacqua@gmail.com>"
   ],
