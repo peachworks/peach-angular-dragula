@@ -1,5 +1,5 @@
 {
-  "name": "peach-angular-dragula",
+  "name": "beyond-angular-dragula",
   "version": "2.1.1",
   "description": "Drag and drop so simple it hurts",
   "main": "angular-dragula.js",
@@ -16,28 +16,28 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/peachworks/peach-angular-dragula"
+    "url": "https://github.com/peachworks/beyond-angular-dragula"
   },
   "author": "Nicolas Bevacqua <nicolasbevacqua@gmail.com> (http://bevacqua.io/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/peachworks/peach-angular-dragula/issues"
+    "url": "https://github.com/peachworks/beyond-angular-dragula/issues"
   },
-  "homepage": "https://github.com/peachworks/peach-angular-dragula",
+  "homepage": "https://github.com/peachworks/beyond-angular-dragula",
   "dependencies": {
     "atoa": "1.0.0",
     "dragula": "3.7.2"
   },
   "devDependencies": {
     "angular": "1.5.8",
-    "browserify": "16.1.0",
-    "clean-css": "4.1.10",
+    "browserify": "16.2.2",
+    "clean-css": "4.1.11",
     "clean-css-cli": "4.1.11",
     "jshint": "2.9.5",
     "jshint-stylish": "2.2.1",
     "nib": "1.1.2",
     "stylus": "0.54.5",
-    "uglify-js": "3.3.13",
+    "uglify-js": "3.4.0",
     "watchify": "3.11.0"
   }
 }
